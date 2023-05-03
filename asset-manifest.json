@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amo-timer/static/css/main.e6c13ad2.css",
+    "main.js": "/amo-timer/static/js/main.14041529.js",
+    "static/js/787.ecafac63.chunk.js": "/amo-timer/static/js/787.ecafac63.chunk.js",
+    "index.html": "/amo-timer/index.html",
+    "main.e6c13ad2.css.map": "/amo-timer/static/css/main.e6c13ad2.css.map",
+    "main.14041529.js.map": "/amo-timer/static/js/main.14041529.js.map",
+    "787.ecafac63.chunk.js.map": "/amo-timer/static/js/787.ecafac63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.14041529.js"
+  ]
+}
